@@ -1,6 +1,3 @@
-/* CSS is how you can add style to your website, such as colors, fonts, and positioning of your
-   HTML content. To learn how to do something, just try searching Google for questions like
-   "how to change link color." */
 
 @import url(//db.onlinewebfonts.com/c/9685e3efc5a2270c6a47d201281ff08a?family=CG+Times);
 @font-face {font-family: "CG Times"; src: url("//db.onlinewebfonts.com/t/9685e3efc5a2270c6a47d201281ff08a.eot"); src: url("//db.onlinewebfonts.com/t/9685e3efc5a2270c6a47d201281ff08a.eot?#iefix") format("embedded-opentype"), url("//db.onlinewebfonts.com/t/9685e3efc5a2270c6a47d201281ff08a.woff2") format("woff2"), url("//db.onlinewebfonts.com/t/9685e3efc5a2270c6a47d201281ff08a.woff") format("woff"), url("//db.onlinewebfonts.com/t/9685e3efc5a2270c6a47d201281ff08a.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/9685e3efc5a2270c6a47d201281ff08a.svg#CG Times") format("svg"); }
