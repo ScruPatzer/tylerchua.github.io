@@ -16,10 +16,3 @@
 @font-face {font-family: "FreeSerif"; src: url("//db.onlinewebfonts.com/t/ae3876b72c8d020c4fc0efcf4363779c.eot"); src: url("//db.onlinewebfonts.com/t/ae3876b72c8d020c4fc0efcf4363779c.eot?#iefix") format("embedded-opentype"), url("//db.onlinewebfonts.com/t/ae3876b72c8d020c4fc0efcf4363779c.woff2") format("woff2"), url("//db.onlinewebfonts.com/t/ae3876b72c8d020c4fc0efcf4363779c.woff") format("woff"), url("//db.onlinewebfonts.com/t/ae3876b72c8d020c4fc0efcf4363779c.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/ae3876b72c8d020c4fc0efcf4363779c.svg#FreeSerif") format("svg"); font-weight: bold; font-style: italic } 
 body {
   
-  background-color: white;
-  color: black;
-  font-family: "CG Times";
-}
-
-
-
