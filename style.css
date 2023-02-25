@@ -19,5 +19,14 @@
   @font-face {font-family: "NimbusRomanW01-Bold"; src: url("//db.onlinewebfonts.com/t/ab218cb2e509d3cbccbe862c6babe852.eot"); src: url("//db.onlinewebfonts.com/t/ab218cb2e509d3cbccbe862c6babe852.eot?#iefix") format("embedded-opentype"), url("//db.onlinewebfonts.com/t/ab218cb2e509d3cbccbe862c6babe852.woff2") format("woff2"), url("//db.onlinewebfonts.com/t/ab218cb2e509d3cbccbe862c6babe852.woff") format("woff"), url("//db.onlinewebfonts.com/t/ab218cb2e509d3cbccbe862c6babe852.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/ab218cb2e509d3cbccbe862c6babe852.svg#NimbusRomanW01-Bold") format("svg"); } 
    @font-face {font-family: "NimbusRomanW01-RegItalic"; src: url("//db.onlinewebfonts.com/t/84afc5815a8efe6aadbc2bc319bab571.eot"); src: url("//db.onlinewebfonts.com/t/84afc5815a8efe6aadbc2bc319bab571.eot?#iefix") format("embedded-opentype"), url("//db.onlinewebfonts.com/t/84afc5815a8efe6aadbc2bc319bab571.woff2") format("woff2"), url("//db.onlinewebfonts.com/t/84afc5815a8efe6aadbc2bc319bab571.woff") format("woff"), url("//db.onlinewebfonts.com/t/84afc5815a8efe6aadbc2bc319bab571.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/84afc5815a8efe6aadbc2bc319bab571.svg#NimbusRomanW01-RegItalic") format("svg"); } 
  
+p {
+  margin: 35px;
+}
+
+ div {
+  text-align: justify;
+  text-justify: inter-word;
+}
+
 body {
   
